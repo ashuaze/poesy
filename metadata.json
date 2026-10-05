@@ -1,0 +1,6 @@
+{
+  "name": "诗境 - 古诗词搜索与推荐",
+  "description": "基于古典诗词语料与 AI 意境解析的古诗词搜索与情境推荐应用，支持作者朝代检索、心境推荐、飞花令与沉浸式诗词卡片。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
